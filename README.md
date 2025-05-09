@@ -18,7 +18,7 @@
 > ⚠️ 若無法開啟，請先安裝 [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
 ### 🔹 完整免安裝版（含 .NET Runtime）
-[Google Drive 備用下載點](https://www.dropbox.com/scl/fi/bnzjswltp2jhkrsipbjbi/BNE3.7z?rlkey=fv0xzlpaigxlh1knerxml9nqi&st=b2lphe2p&dl=0)
+[dropbox 備用下載點](https://www.dropbox.com/scl/fi/bnzjswltp2jhkrsipbjbi/BNE3.7z?rlkey=fv0xzlpaigxlh1knerxml9nqi&st=b2lphe2p&dl=0)
 
 > 不需安裝.NET 8 Desktop Runtime，下載解壓縮即可執行
 
