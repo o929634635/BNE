@@ -23,4 +23,4 @@
 > 不需安裝.NET 8 Desktop Runtime，下載解壓縮即可執行
 
 使用說明
-[dropbox 下載點](https://www.dropbox.com/scl/fi/fdqoumiyl8vvyzfan6s67/.7z?rlkey=s3il33xy7xpmg6edypiwwmuei&st=yucm8xtt&dl=0)
+[dropbox 下載點](https://www.dropbox.com/scl/fi/fdqoumiyl8vvyzfan6s67/.7z?rlkey=s3il33xy7xpmg6edypiwwmuei&st=vjmn5udo&dl=0)
